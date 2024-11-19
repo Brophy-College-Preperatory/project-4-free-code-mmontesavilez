@@ -1,0 +1,43 @@
+body, html {
+    background-color: crimson; 
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  h2 {
+    color: white;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+
+  li {
+    float: middle; 
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  #website {
+    border-style: solid;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+  }
